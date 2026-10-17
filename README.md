@@ -155,3 +155,4 @@ alembic upgrade head
 - Testlar: `pytest` + `httpx.AsyncClient`
 "# asiya-travel-backend" 
 "# humo-travel-backend" 
+"# shamsBack" 
